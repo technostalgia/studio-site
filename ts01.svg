@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 610"><g transform="translate(0 0)">
+<path d="M0 280C0 100 120 0 330 0S660 100 660 280V610H0Z" fill="#303d35"/>
+<g fill="#d5c798" stroke="#d5c798" stroke-width="6">
+<circle cx="175" cy="240" r="120" fill="none" stroke-width="15"/><circle cx="485" cy="240" r="120" fill="none" stroke-width="15"/>
+<g id="spool"><circle cx="175" cy="240" r="27" fill="#303d35"/><path d="M166 209L147 133A110 110 0 0 1 208 135L184 209ZM202 251L277 273A110 110 0 0 1 239 322L184 266ZM150 260L92 313A110 110 0 0 1 68 255L145 233Z" stroke="none"/></g>
+<use href="#spool" transform="translate(310 0) rotate(18 175 240)"/>
+</g>
+<!-- Transport keys form a restrained moustache, with no central nose. -->
+<g fill="#d5c798" transform="translate(174 387)"><path d="M0 0L-14 10L0 20ZM15 0L1 10L15 20Z"/><path d="M62 0L62 20L80 10Z"/><rect x="115" width="19" height="19" rx="1"/><circle cx="177" cy="10" r="10" fill="#c36543"/><rect x="221" width="6" height="20"/><rect x="233" width="6" height="20"/><path d="M280 0L294 10L280 20ZM295 0L309 10L295 20Z"/></g>
+<!-- Open-reel tape travels left supply reel, guide, heads, capstan and pinch roller, right take-up reel. -->
+<g fill="#202c26" stroke="#d5c798" stroke-width="3"><rect x="198" y="449" width="59" height="62" rx="9"/><rect x="294" y="449" width="69" height="62" rx="9"/><rect x="400" y="449" width="59" height="62" rx="9"/></g>
+<g fill="#d5c798"><rect x="219" y="473" width="16" height="22" rx="3"/><rect x="319" y="473" width="19" height="22" rx="3"/><rect x="421" y="473" width="16" height="22" rx="3"/></g>
+<g fill="#303d35" stroke="#d5c798" stroke-width="6"><circle cx="124" cy="456" r="17"/><circle cx="538" cy="483" r="12"/><circle cx="538" cy="516" r="17"/></g>
+<path d="M83 312L106 456Q106 495 145 495H526Q553 495 552 469L577 312" stroke="#c36543" stroke-width="8" fill="none" stroke-linejoin="round"/>
+<g font-family="Avenir Next,Avenir,Arial,sans-serif" fill="#d5c798"><text x="36" y="576" font-size="15" letter-spacing="3">PLAY / RECORD / LISTEN</text><text x="537" y="578" font-size="26" font-weight="700">TS01</text></g>
+</g>
+</svg>
